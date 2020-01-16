@@ -1,0 +1,16 @@
+{
+  "name": "corridors-of-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "matchfinder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "canvas-to-image": "^2.1.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
